@@ -1,5 +1,9 @@
 # UniversalTuringMachine
+
 Implementazione della mdtU in Python e JFlap
+
+![mdtU](mdtU.gif)
+
 
 Per definizione una macchina di Turing è una settupla M = (Q, Σ, Γ, δ, q0, qaccept, qreject).
 
